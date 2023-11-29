@@ -7,20 +7,24 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-simcdm-feedst
 About r-simcdm
 --------------
 
-Home: https://github.com/tmsalab/simcdm
+Home: https://tmsalab.github.io/simcdm/
 
 Package license: GPL-2.0-or-later
 
 Summary: Provides efficient R and 'C++' routines to simulate cognitive diagnostic model data for Deterministic Input, Noisy "And" Gate ('DINA') and reduced Reparameterized Unified Model ('rRUM') from Culpepper and Hudson (2017) <doi: 10.1177/0146621617707511>, Culpepper (2015) <doi:10.3102/1076998615595403>, and de la Torre (2009) <doi:10.3102/1076998607309474>.
+
+Development: https://github.com/tmsalab/simcdm
 
 About r-simcdm
 --------------
 
-Home: https://github.com/tmsalab/simcdm
+Home: https://tmsalab.github.io/simcdm/
 
 Package license: GPL-2.0-or-later
 
 Summary: Provides efficient R and 'C++' routines to simulate cognitive diagnostic model data for Deterministic Input, Noisy "And" Gate ('DINA') and reduced Reparameterized Unified Model ('rRUM') from Culpepper and Hudson (2017) <doi: 10.1177/0146621617707511>, Culpepper (2015) <doi:10.3102/1076998615595403>, and de la Torre (2009) <doi:10.3102/1076998607309474>.
+
+Development: https://github.com/tmsalab/simcdm
 
 Current build status
 ====================
