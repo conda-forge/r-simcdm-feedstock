@@ -3,22 +3,28 @@ About r-simcdm-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-simcdm-feedstock/blob/main/LICENSE.txt)
 
+
 About r-simcdm
 --------------
 
-Home: https://github.com/tmsalab/simcdm
+Home: https://tmsalab.github.io/simcdm/
 
 Package license: GPL-2.0-or-later
 
 Summary: Provides efficient R and 'C++' routines to simulate cognitive diagnostic model data for Deterministic Input, Noisy "And" Gate ('DINA') and reduced Reparameterized Unified Model ('rRUM') from Culpepper and Hudson (2017) <doi: 10.1177/0146621617707511>, Culpepper (2015) <doi:10.3102/1076998615595403>, and de la Torre (2009) <doi:10.3102/1076998607309474>.
+
+Development: https://github.com/tmsalab/simcdm
+
 About r-simcdm
 --------------
 
-Home: https://github.com/tmsalab/simcdm
+Home: https://tmsalab.github.io/simcdm/
 
 Package license: GPL-2.0-or-later
 
 Summary: Provides efficient R and 'C++' routines to simulate cognitive diagnostic model data for Deterministic Input, Noisy "And" Gate ('DINA') and reduced Reparameterized Unified Model ('rRUM') from Culpepper and Hudson (2017) <doi: 10.1177/0146621617707511>, Culpepper (2015) <doi:10.3102/1076998615595403>, and de la Torre (2009) <doi:10.3102/1076998607309474>.
+
+Development: https://github.com/tmsalab/simcdm
 
 Current build status
 ====================
@@ -153,7 +159,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
